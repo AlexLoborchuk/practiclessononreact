@@ -1,0 +1,17 @@
+.block1{
+		margin: 10px;
+	border: 1px solid black;
+	border-radius: 15px;
+	padding: 10px;
+}
+.block2{
+	margin: 10px;
+	border: 1px solid blue;
+	border-radius: 15px;
+	padding: 10px;
+}
+.forms1{
+	border: 1px solid;
+	padding: 10px;
+	border-radius: 7px;
+}
